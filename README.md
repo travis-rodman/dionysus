@@ -13,5 +13,5 @@ wrong, it may, or may not, be released, but the
 intent is to work up a framework that can facilitate 
 an actor model implementation
 <p/>
-Pacific Northwest Scala Conference 2013 We're Doing It All Wrong by Paul Phillips. (2013). 
-Retrieved September 30, 2015.  https://www.youtube.com/watch?v=TS1lpKBMkgg 
+[1] Pacific Northwest Scala Conference 2013 We're Doing It All Wrong by Paul Phillips. (2013). 
+    Retrieved September 30, 2015.  https://www.youtube.com/watch?v=TS1lpKBMkgg 
